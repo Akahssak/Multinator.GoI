@@ -1,0 +1,8 @@
+{
+    "scripts": {
+      "api.go": "D:\\projects\\go\\hackathon\\ingestion\\http\\api.go",
+      "script1.go": "D:\\projects\\go\\hackathon\\ingestion\\http\\http.go",
+      "script2.go": "D:\\projects\\go\\hackathon\\new\\producerlive.go"
+    }
+  }
+  
